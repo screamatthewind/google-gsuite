@@ -1,0 +1,9 @@
+**/build/
+**/bin/
+**/target/
+**/.recommenders/
+**/.history/
+**/.metadata/.plugins/
+**/.metadata/.lock
+**/.metadata/.log
+**/.metadata/version.ini
